@@ -7,4 +7,8 @@ Jul, 2018
   
   > 01_2 Select and Store Useful Info
   
-02
+02 Data Manipulation
+
+  > 02_1 NumPy-Arrays
+  
+  
