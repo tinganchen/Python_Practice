@@ -15,5 +15,7 @@ Jul, 2018
   
   > 03_1 Matplotlib
   
+03 Data Visualization
+  
   > 03_2 Seaborn
   
