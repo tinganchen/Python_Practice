@@ -13,9 +13,9 @@ Jul, 2018
   
   > 02_2 Pandas-Data Frame
   
-  > 03_1 Matplotlib
+03 Data Visualization  
   
-03 Data Visualization
+  > 03_1 Matplotlib
   
   > 03_2 Seaborn
   
